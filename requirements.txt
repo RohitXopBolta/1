@@ -1,0 +1,25 @@
+# Telegram Bot Dependencies
+pyTelegramBotAPI>=4.12.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Web Scraping and HTML Parsing
+beautifulsoup4>=4.12.0
+
+# Web Framework for Keep Alive
+Flask>=2.3.0
+
+# Terminal Color Output
+colorama>=0.4.6
+
+# Regular Expressions (built-in, but listed for clarity)
+# re - built-in module
+
+# Other built-in modules used:
+# random - built-in module
+# time - built-in module
+# string - built-in module
+# base64 - built-in module
+# threading - built-in module
+# os - built-in module
